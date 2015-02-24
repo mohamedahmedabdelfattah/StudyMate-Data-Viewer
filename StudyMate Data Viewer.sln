@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "StudyMate Data Viewer", ".", "{122977E7-BD4B-4ABE-B1B8-71AA6C7A1E6F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		Debug.AspNetCompiler.VirtualPath = "/StudyMate Data Viewer"
+		Debug.AspNetCompiler.PhysicalPath = "..\StudyMate Data Viewer\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\StudyMate Data Viewer\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/StudyMate Data Viewer"
+		Release.AspNetCompiler.PhysicalPath = "..\StudyMate Data Viewer\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\StudyMate Data Viewer\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1157"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122977E7-BD4B-4ABE-B1B8-71AA6C7A1E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122977E7-BD4B-4ABE-B1B8-71AA6C7A1E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
